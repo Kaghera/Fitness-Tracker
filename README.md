@@ -20,4 +20,4 @@ The user should be able to:
 
 ## Technologies Used
 
-* Bootstrap, HTML, CSS, JS, NodeJS, express, mongoose, mongoDB
+* Bootstrap, HTML, CSS, JS, NodeJS, express, mongoose, mongoDB, Heroku
